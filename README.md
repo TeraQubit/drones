@@ -12,14 +12,13 @@ open Swagger ui from this link :
 
 you can see your APIs as follows :
 
-![alt text][logo]
-
-[logo]:  "API Documentation"
+![alt text](https://github.com/TeraQubit/drones/blob/master/src/main/resources/static/documentation.png?raw=true "API Documentation")
 
 Also , you will fine a preloaded drones by calling  
 
 [http://localhost:8090/api/drone/available]
 
-![alt text][logo]
+![alt text](https://github.com/TeraQubit/drones/blob/master/src/main/resources/static/avaliable%20drones.png?raw=true "availabe drones")
 
-[logo]:  "availabe drones"
+
+  
